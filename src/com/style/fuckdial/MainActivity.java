@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
 			case R.id.btn_dial:
 				String number = et_number.getText().toString().trim();
 				if (TextUtils.isEmpty(number)) {
-					Toast.makeText(MainActivity.this, "号码不能为空", Toast.LENGTH_LONG).show();
+					Toast.makeText(MainActivity.this, "鍙风爜涓嶈兘涓虹┖", Toast.LENGTH_LONG).show();
 					return;
 				}
 				Intent intent = new Intent();
