@@ -1,5 +1,6 @@
-package com.style.fuckdial;
+package com.style.fastdial;
 
+import com.style.fastdial.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
