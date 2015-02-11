@@ -1,4 +1,4 @@
-package com.style.fastdial;
+package com.style.quickdial;
 
 import com.style.fastdial.R;
 import android.app.Activity;
